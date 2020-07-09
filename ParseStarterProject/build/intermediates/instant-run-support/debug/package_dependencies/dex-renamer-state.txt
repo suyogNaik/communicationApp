@@ -1,0 +1,7 @@
+#Wed Jul 08 23:50:48 IST 2020
+base.0=C\:\\Users\\Suyog Naik\\Desktop\\messagepair\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Suyog Naik\\Desktop\\messagepair\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\29
